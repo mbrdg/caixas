@@ -1,0 +1,12 @@
+[package]
+name = "caixas"
+version = "0.1.0"
+description = "A small composable library for text boxes."
+edition = "2024"
+repository = "https://github.com/mbrdg/caixas"
+readme = "README.md"
+license = "MIT"
+keywords = ["text", "CLI", "composition"]
+categories = ["command-line-interface"]
+
+[dependencies]
